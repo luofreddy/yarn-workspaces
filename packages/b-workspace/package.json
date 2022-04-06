@@ -1,0 +1,10 @@
+{
+  "name": "@yarn-workspace/b-workspace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@yarn-workspace/a-workspace": "^1.0.0",
+    "lodash": "^4.17.21"
+  }
+}
